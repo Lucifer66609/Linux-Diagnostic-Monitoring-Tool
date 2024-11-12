@@ -5,7 +5,7 @@ A Python tool for performing system diagnostics, real-time monitoring, and hardw
 - **System Information**: Retrieves CPU, memory, OS, and network information.
 - **Health Checks**: Monitors CPU usage, memory usage, disk space, and network activity.
 - **Hardware Diagnostics**: Checks battery status and connected hardware (e.g., USB devices).
-- **Real-Time Monitoring**: Optional real-time terminal-based interface.
+- **Real-Time Monitoring**: Optional real-time terminal-based interface. (Work in progress)
 - **Report Generation**: Creates JSON or text reports with diagnostic summaries.
 
 ## Installation
